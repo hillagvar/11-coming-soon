@@ -20,4 +20,10 @@
     background-color: var(--color-primary);
 }
 
+footer.container {
+    padding-top: 0;
+}
 
+.container.hero {
+    padding-bottom: 25px;
+}
