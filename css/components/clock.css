@@ -4,7 +4,6 @@
     color: var(--color-light);
     text-transform: uppercase;
     font-size: 18px;
-
 }
 
 .clock > .time {
@@ -15,5 +14,6 @@
 
 .clock > .time > .value {
     font-size: 70px;
-    font-weight: bold;
+    font-weight: 700;
 }
+
